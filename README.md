@@ -9,6 +9,16 @@ Inspired by this, this list is created. The focus isn't on presenting personal p
 ---
 # The Manifestos List
 
+## Special address by Javier Milei, President of Argentina
+- **Year**: 2024
+- **Authors**: Javier Milei
+- **Description** In his speech at the World Economic Forum, Javier Milei presents a critique of global economic policies and advocates for more libertarian economic principles. His discourse challenges mainstream economic thought, emphasizing individual liberty, free market dynamics, and minimal government intervention as keys to fostering economic growth and societal well-being.
+- **URLs**: 
+  - [WEF](https://www.weforum.org/events/world-economic-forum-annual-meeting-2024/sessions/special-address-by-javier-milei-president-of-argentina/)
+  - [WEF](https://www.weforum.org/agenda/2024/01/special-address-by-javier-milei-president-of-argentina/)
+  - [X](https://twitter.com/aphysicist/status/1747868626948907325)
+  - [YouTube](https://www.youtube.com/watch?v=Pfcd0gWNIog)
+
 ## The Techno-Optimist Manifesto
 - **Year**: 2023
 - **Authors**: Marc Andreessen
