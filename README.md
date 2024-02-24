@@ -9,6 +9,11 @@ Inspired by this, this list is created. The focus isn't on presenting personal p
 ---
 # The Manifestos List
 
+## A Techno-Industrialist Manifesto
+- **Year**: 2024
+- **Authors**: Aaron Slodov
+- **Description** The Techno-Industrialist Manifesto emphasizes the imperative of enhancing manufacturing through technology to make it better, cheaper, and faster. It advocates for a future where creating physical objects is as straightforward as developing software, underscoring the potential of technology to revolutionize the production landscape.
+
 ## Special address by Javier Milei, President of Argentina
 - **Year**: 2024
 - **Authors**: Javier Milei
